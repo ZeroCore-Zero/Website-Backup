@@ -1,1 +1,2 @@
-# Website-Backup
+# 这是ZeroCore的动态网站的备份
+2021/8/2开源，希望有更多人能参与编辑QAQ
