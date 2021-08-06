@@ -6,6 +6,8 @@ require "../html/head.php";
 <h1>资源下载</h1>
 <h2 style="color:#ff0000;text-align:center">免责声明：本站下载资源仅供学习所需，请于下载后24小时内删除，本站概不负责。</h2>
 	<ol>
+		<li><a href="//wws.lanzoui.com/iCGbwrpjbhe" target="_balnk">Discuz</a></li>
+		<li><a href="//wws.lanzoui.com/iwwllrpj9pa" target="_balnk">WordPress</a></li>
 		<li><a href="//wws.lanzoui.com/iCe2akgso9c" target="_balnk">手机版微软远程桌面||密码:89vp</a></li>
 		<li><a href="//www.aliyundrive.com/s/Kr2YAeiGC8E">电脑教程</a></li>
 	</ol>
