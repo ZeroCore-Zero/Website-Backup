@@ -10,6 +10,7 @@ require "../html/head.php";
 		<li><a href="//wws.lanzoui.com/iwwllrpj9pa" target="_balnk">WordPress</a></li>
 		<li><a href="//wws.lanzoui.com/iCe2akgso9c" target="_balnk">手机版微软远程桌面||密码:89vp</a></li>
 		<li><a href="//www.aliyundrive.com/s/Kr2YAeiGC8E">电脑教程</a></li>
+		<li><a href="//pan.baidu.com/s/1KBP3oCr-t8uAH_Ij4Ht-lw" target="_blank">Adobe||提取码：jsfb</a></li>
 	</ol>
 <h1>学习网站</h1>
 	<ol>
