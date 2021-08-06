@@ -23,6 +23,7 @@
 				<li><a href="//8.131.70.189">首页</a></li>
 				<li><a href="//8.131.70.189/account">账号系统</a></li>
 				<li><a href="//8.131.70.189/login">登录</a></li>
+				<li><iframe id="music" frameborder="no" border="0" marginwidth="0" marginheight="0" width=330 height=86 src="//music.163.com/outchain/player?type=2&id=5146554&auto=1&height=66"></iframe></li>
 			</ul>
 		</div>
 		<div class="main">
