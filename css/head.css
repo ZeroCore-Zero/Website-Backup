@@ -1,0 +1,17 @@
+.head {
+    display: flex;                  /*Flex布局*/
+    align-items: center;            /* 垂直居中 */
+    justify-content: space-between; /*分布两侧*/
+}
+
+.head ul {
+    padding-left: 3rem;
+    padding-right: 3rem;
+}
+
+.head li {
+	list-style-type:none;
+	display:inline;
+	padding-left:1rem;
+	padding-right:1rem;
+}

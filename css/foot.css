@@ -1,0 +1,21 @@
+.foot{
+	position:fixed;
+	font-size:1rem;
+	padding-left:10%;
+	width: 100%;
+	height: 3.5rem;
+	bottom:0;
+	opacity:0.8;
+} 
+
+.foot a,.foot li {
+	color:#000000;
+}
+
+.foot li {
+	list-style-type:none;
+	display:inline;
+	padding-left:1rem;
+	padding-right:1rem;
+	border-right:1px solid #000000;
+}

@@ -1,0 +1,26 @@
+.main {
+	width: 50%;
+	height:100%;
+	margin: 12rem auto;
+	border-style: outset;
+	line-height:1.5;
+	opacity:0.9;
+	list-style-position:inside;
+}
+
+.main:hover {
+	opacity:1.0;
+}
+
+.main h1 {
+	text-align:center;
+	text-shadow: 0.2rem 0.2rem 5px #7c7c7c;
+}
+
+.main li {
+	font-size:1.1rem;
+}
+
+.main .z210 {
+	line-height:0.1;
+}
