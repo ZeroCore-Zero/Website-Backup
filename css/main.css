@@ -4,12 +4,7 @@
 	margin: 12rem auto;
 	border-style: outset;
 	line-height:1.5;
-	opacity:0.9;
 	list-style-position:inside;
-}
-
-.main:hover {
-	opacity:1.0;
 }
 
 .main h1 {
