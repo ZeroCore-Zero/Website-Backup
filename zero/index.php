@@ -18,8 +18,8 @@ require "../html/head.php";
 		<li><a href="//tool.lu" target="_blank">工具站</a></li>
 		<li><a href="//www.runoob.com/cprogramming/c-tutorial.html" target="_blank">C语言学习</a></li>
 		<li><a href="//www.runoob.com" target="_blank">菜鸟教程</a></li>
-		<li></li>
-		<li></li>
+		<li><a href="//www.dooccn.com/cpp/" target="_blank">程序在线编译</a></li>
+		<li><a href="//noi.openjudge.cn/" target="_blank">OpenJudge</a></li>
 	</ol>
 
 <?php require "../html/foot.php"; ?>
