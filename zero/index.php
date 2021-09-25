@@ -16,11 +16,11 @@ require "../html/head.php";
 	<ol>
 		<li><a href="//www.bilibili.com" target="_blank">小破站NB</a></li>
 		<li><a href="//tool.lu" target="_blank">工具站</a></li>
-		<li><a href="//www.runoob.com/cprogramming/c-tutorial.html" target="_blank">C语言学习</a></li>
+		<li><a href="#" target="_blank"></a></li>
 		<li><a href="//www.runoob.com" target="_blank">菜鸟教程</a></li>
 		<li><a href="//www.dooccn.com/cpp/" target="_blank">程序在线编译</a></li>
 		<li><a href="//noi.openjudge.cn/" target="_blank">OpenJudge</a></li>
-		<li><a href="//www.5axxw.com/questions/content/169kir" target="_blank">与所有github存储库同步的VScode（即自动拉取）</a></li>
+		<li><a href="#" target="_blank"></a></li>
 	</ol>
 
 <?php require "../html/foot.php"; ?>

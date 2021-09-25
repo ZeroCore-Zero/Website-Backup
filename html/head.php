@@ -31,7 +31,7 @@
 			<div>
 				<ul>
 					<li><a href="//8.131.70.189/login">登录</a></li>
-					<li><iframe frameborder="no" width="86" height="86" style="vertical-align:middle" src="//music.163.com/outchain/player?type=2&id=5146554&auto=1&height=66"></iframe></li>
+					<li><iframe frameborder="no" width="86" height="86" style="vertical-align:middle" src="//music.163.com/outchain/player?type=2&id=5146554&auto=0&height=66"></iframe></li>
 				</ul>
 			</div>
 		</div>
