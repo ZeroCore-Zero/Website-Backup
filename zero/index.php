@@ -20,7 +20,7 @@ require "../html/head.php";
 		<li><a href="//www.runoob.com" target="_blank">菜鸟教程</a></li>
 		<li><a href="//www.dooccn.com/cpp/" target="_blank">程序在线编译</a></li>
 		<li><a href="//noi.openjudge.cn/" target="_blank">OpenJudge</a></li>
-		<li><a href="//idc.vjiangyin.com/" target="_blank"></a>星辰云</li>
+		<li><a href="//idc.vjiangyin.com/" target="_blank">星辰云</a></li>
 	</ol>
 
 <?php require "../html/foot.php"; ?>
