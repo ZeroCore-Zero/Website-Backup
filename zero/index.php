@@ -21,6 +21,8 @@ require "../html/head.php";
 		<li><a href="//www.dooccn.com/cpp/" target="_blank">程序在线编译</a></li>
 		<li><a href="//noi.openjudge.cn/" target="_blank">OpenJudge</a></li>
 		<li><a href="//idc.vjiangyin.com/" target="_blank">星辰云</a></li>
+		<li><a href="//www.runoob.com/w3cnote/git-guide.html">Github使用</a></li>
+		<li><a href="//www.runoob.com/w3cnote/vscode-tutorial.html">VsCode使用</a></li>
 	</ol>
 
 <?php require "../html/foot.php"; ?>
