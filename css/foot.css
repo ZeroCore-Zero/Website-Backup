@@ -1,5 +1,6 @@
 .foot{
-	position:fixed;
+	position:absolute;
+	bottom:0;
 	font-size:1rem;
 	padding-left:10%;
 	width: 100%;
